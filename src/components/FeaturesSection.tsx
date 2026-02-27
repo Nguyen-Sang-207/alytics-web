@@ -84,6 +84,7 @@ const FeaturesSection = () => {
                     src={f.image}
                     alt={f.title}
                     fill
+                    sizes="(max-width: 768px) 85vw, (max-width: 1200px) 25vw, 250px"
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
                   />
                 </div>

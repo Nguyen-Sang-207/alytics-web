@@ -28,17 +28,17 @@ const HeroSection = () => {
     <section ref={containerRef} className="relative pt-32 pb-16 overflow-hidden bg-background">
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full bg-[radial-gradient(circle_at_center,_var(--tw-gradient-from)_0%,_transparent_70%)] from-primary/5 to-transparent -z-10" />
       {/* Floating logos */}
-      <div className="absolute left-[5%] top-[30%] hidden lg:block">
-        <Image src={logoKnot} alt="Knot Logo" width={64} height={64} className="rounded-xl shadow-lg bg-background p-2" />
+      <div className="absolute left-[5%] top-[30%] hidden lg:block w-16 h-16">
+        <Image src={logoKnot} alt="Knot Logo" width={64} height={64} className="rounded-xl shadow-lg bg-background p-2 w-full h-full object-contain" />
       </div>
-      <div className="absolute left-[8%] top-[55%] hidden lg:block">
-        <Image src={logoVeltix} alt="Veltix Logo" width={56} height={56} className="rounded-xl shadow-lg bg-background p-2" />
+      <div className="absolute left-[8%] top-[55%] hidden lg:block w-14 h-14">
+        <Image src={logoVeltix} alt="Veltix Logo" width={56} height={56} className="rounded-xl shadow-lg bg-background p-2 w-full h-full object-contain" />
       </div>
-      <div className="absolute right-[5%] top-[25%] hidden lg:block">
-        <Image src={logoNuvio} alt="Nuvio Logo" width={64} height={64} className="rounded-xl shadow-lg bg-background p-2" />
+      <div className="absolute right-[5%] top-[25%] hidden lg:block w-16 h-16">
+        <Image src={logoNuvio} alt="Nuvio Logo" width={64} height={64} className="rounded-xl shadow-lg bg-background p-2 w-full h-full object-contain" />
       </div>
-      <div className="absolute right-[8%] top-[55%] hidden lg:block">
-        <Image src={logoKlyra} alt="Klyra Logo" width={56} height={56} className="rounded-xl shadow-lg bg-background p-2" />
+      <div className="absolute right-[8%] top-[55%] hidden lg:block w-14 h-14">
+        <Image src={logoKlyra} alt="Klyra Logo" width={56} height={56} className="rounded-xl shadow-lg bg-background p-2 w-full h-full object-contain" />
       </div>
 
       <div className="section-container text-center">

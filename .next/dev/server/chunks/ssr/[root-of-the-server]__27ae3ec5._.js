@@ -726,13 +726,13 @@ const HeroSection = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute left-[5%] top-[30%] hidden lg:block",
+                className: "absolute left-[5%] top-[30%] hidden lg:block w-16 h-16",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                     src: logoKnot,
                     alt: "Knot Logo",
                     width: 64,
                     height: 64,
-                    className: "rounded-xl shadow-lg bg-background p-2"
+                    className: "rounded-xl shadow-lg bg-background p-2 w-full h-full object-contain"
                 }, void 0, false, {
                     fileName: "[project]/Documents/web/alytics-web/src/components/HeroSection.tsx",
                     lineNumber: 32,
@@ -744,13 +744,13 @@ const HeroSection = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute left-[8%] top-[55%] hidden lg:block",
+                className: "absolute left-[8%] top-[55%] hidden lg:block w-14 h-14",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                     src: logoVeltix,
                     alt: "Veltix Logo",
                     width: 56,
                     height: 56,
-                    className: "rounded-xl shadow-lg bg-background p-2"
+                    className: "rounded-xl shadow-lg bg-background p-2 w-full h-full object-contain"
                 }, void 0, false, {
                     fileName: "[project]/Documents/web/alytics-web/src/components/HeroSection.tsx",
                     lineNumber: 35,
@@ -762,13 +762,13 @@ const HeroSection = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute right-[5%] top-[25%] hidden lg:block",
+                className: "absolute right-[5%] top-[25%] hidden lg:block w-16 h-16",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                     src: logoNuvio,
                     alt: "Nuvio Logo",
                     width: 64,
                     height: 64,
-                    className: "rounded-xl shadow-lg bg-background p-2"
+                    className: "rounded-xl shadow-lg bg-background p-2 w-full h-full object-contain"
                 }, void 0, false, {
                     fileName: "[project]/Documents/web/alytics-web/src/components/HeroSection.tsx",
                     lineNumber: 38,
@@ -780,13 +780,13 @@ const HeroSection = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute right-[8%] top-[55%] hidden lg:block",
+                className: "absolute right-[8%] top-[55%] hidden lg:block w-14 h-14",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                     src: logoKlyra,
                     alt: "Klyra Logo",
                     width: 56,
                     height: 56,
-                    className: "rounded-xl shadow-lg bg-background p-2"
+                    className: "rounded-xl shadow-lg bg-background p-2 w-full h-full object-contain"
                 }, void 0, false, {
                     fileName: "[project]/Documents/web/alytics-web/src/components/HeroSection.tsx",
                     lineNumber: 41,
@@ -1117,6 +1117,7 @@ const FeaturesSection = ()=>{
                                                 src: f.image,
                                                 alt: f.title,
                                                 fill: true,
+                                                sizes: "(max-width: 768px) 85vw, (max-width: 1200px) 25vw, 250px",
                                                 className: "object-cover group-hover:scale-105 transition-transform duration-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/web/alytics-web/src/components/FeaturesSection.tsx",
@@ -1136,7 +1137,7 @@ const FeaturesSection = ()=>{
                                                     children: f.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/Documents/web/alytics-web/src/components/FeaturesSection.tsx",
-                                                    lineNumber: 91,
+                                                    lineNumber: 92,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1144,13 +1145,13 @@ const FeaturesSection = ()=>{
                                                     children: f.desc
                                                 }, void 0, false, {
                                                     fileName: "[project]/Documents/web/alytics-web/src/components/FeaturesSection.tsx",
-                                                    lineNumber: 92,
+                                                    lineNumber: 93,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Documents/web/alytics-web/src/components/FeaturesSection.tsx",
-                                            lineNumber: 90,
+                                            lineNumber: 91,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
@@ -1174,17 +1175,17 @@ const FeaturesSection = ()=>{
                                         className: `rounded-full transition-all ${activeTab === i ? "bg-primary w-6 h-2" : "bg-primary/20 w-2 h-2 group-hover:bg-primary/40"}`
                                     }, void 0, false, {
                                         fileName: "[project]/Documents/web/alytics-web/src/components/FeaturesSection.tsx",
-                                        lineNumber: 107,
+                                        lineNumber: 108,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, i, false, {
                                     fileName: "[project]/Documents/web/alytics-web/src/components/FeaturesSection.tsx",
-                                    lineNumber: 101,
+                                    lineNumber: 102,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)))
                         }, void 0, false, {
                             fileName: "[project]/Documents/web/alytics-web/src/components/FeaturesSection.tsx",
-                            lineNumber: 99,
+                            lineNumber: 100,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
@@ -1323,6 +1324,7 @@ const HowItWorksSection = ()=>{
                                                 src: s.image,
                                                 alt: s.title,
                                                 fill: true,
+                                                sizes: "(max-width: 768px) 85vw, (max-width: 1200px) 33vw, 350px",
                                                 className: "object-contain p-6 group-hover:scale-105 transition-transform duration-500"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/web/alytics-web/src/components/HowItWorksSection.tsx",
@@ -1342,7 +1344,7 @@ const HowItWorksSection = ()=>{
                                                     children: s.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/Documents/web/alytics-web/src/components/HowItWorksSection.tsx",
-                                                    lineNumber: 82,
+                                                    lineNumber: 83,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$web$2f$alytics$2d$web$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1350,13 +1352,13 @@ const HowItWorksSection = ()=>{
                                                     children: s.desc
                                                 }, void 0, false, {
                                                     fileName: "[project]/Documents/web/alytics-web/src/components/HowItWorksSection.tsx",
-                                                    lineNumber: 83,
+                                                    lineNumber: 84,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Documents/web/alytics-web/src/components/HowItWorksSection.tsx",
-                                            lineNumber: 81,
+                                            lineNumber: 82,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
@@ -1380,17 +1382,17 @@ const HowItWorksSection = ()=>{
                                         className: `rounded-full transition-all ${activeTab === i ? "bg-primary w-6 h-2" : "bg-primary/20 w-2 h-2 group-hover:bg-primary/40"}`
                                     }, void 0, false, {
                                         fileName: "[project]/Documents/web/alytics-web/src/components/HowItWorksSection.tsx",
-                                        lineNumber: 98,
+                                        lineNumber: 99,
                                         columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, i, false, {
                                     fileName: "[project]/Documents/web/alytics-web/src/components/HowItWorksSection.tsx",
-                                    lineNumber: 92,
+                                    lineNumber: 93,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)))
                         }, void 0, false, {
                             fileName: "[project]/Documents/web/alytics-web/src/components/HowItWorksSection.tsx",
-                            lineNumber: 90,
+                            lineNumber: 91,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]

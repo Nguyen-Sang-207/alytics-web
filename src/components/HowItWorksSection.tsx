@@ -75,6 +75,7 @@ const HowItWorksSection = () => {
                     src={s.image}
                     alt={s.title}
                     fill
+                    sizes="(max-width: 768px) 85vw, (max-width: 1200px) 33vw, 350px"
                     className="object-contain p-6 group-hover:scale-105 transition-transform duration-500"
                   />
                 </div>
