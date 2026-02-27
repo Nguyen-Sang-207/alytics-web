@@ -98,6 +98,8 @@ const HeroSection = () => {
               width={1024}
               height={576}
               priority
+              fetchPriority="high"
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1024px"
               className="w-full h-auto rounded-2xl shadow-2xl border border-border/50 relative z-10"
             />
           </motion.div>

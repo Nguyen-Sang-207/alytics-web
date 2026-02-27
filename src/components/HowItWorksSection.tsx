@@ -92,9 +92,11 @@ const HowItWorksSection = () => {
               <button
                 key={i}
                 onClick={() => scrollTo(i)}
-                className={`w-2 h-2 rounded-full transition-all ${activeTab === i ? "bg-primary w-6" : "bg-primary/20"}`}
+                className="w-4 h-4 flex items-center justify-center transition-all group"
                 aria-label={`Go to step ${i + 1}`}
-              />
+              >
+                <span className={`rounded-full transition-all ${activeTab === i ? "bg-primary w-6 h-2" : "bg-primary/20 w-2 h-2 group-hover:bg-primary/40"}`} />
+              </button>
             ))}
           </div>
         </div>
