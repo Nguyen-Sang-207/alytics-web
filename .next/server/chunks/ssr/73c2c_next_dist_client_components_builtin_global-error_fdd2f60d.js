@@ -1,0 +1,3 @@
+module.exports=[49179,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(27536);a.n(d("[project]/Documents/web/clone-with-charm-64/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},11564,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(27536);a.n(d("[project]/Documents/web/clone-with-charm-64/node_modules/next/dist/client/components/builtin/global-error.js"))},582,a=>{"use strict";a.i(49179);var b=a.i(11564);a.n(b)}];
+
+//# sourceMappingURL=73c2c_next_dist_client_components_builtin_global-error_fdd2f60d.js.map

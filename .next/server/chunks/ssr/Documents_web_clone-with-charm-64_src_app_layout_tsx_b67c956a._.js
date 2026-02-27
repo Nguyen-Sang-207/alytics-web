@@ -1,0 +1,3 @@
+module.exports=[3499,a=>{"use strict";var b=a.i(11918);function c({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{children:a})})}a.s(["default",()=>c,"metadata",0,{title:"Alytics – Turn Scattered Data Into Smart Decisions",description:"One simple dashboard to track your SaaS growth, MRR, churn and user behavior—without the chaos of multiple tools."}])}];
+
+//# sourceMappingURL=Documents_web_clone-with-charm-64_src_app_layout_tsx_b67c956a._.js.map
